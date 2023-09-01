@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "71H3qUO00cNtpypR9qmIiqPhYgvcuB/wRNn7xU30sHL7dZw8HnURTOw867JCIVmn6m9962kymKlsQesi3u1dWA==",
+  "dgSpecHash": "GGHGn3uzh9fihjmpyd3oSaN/J0D1Rv/FlCS/QYQXaxoRuvI9SN7iw4roKIwy3z7GwpFLipiiz+X7LT937WR88Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\ImageGallery.Client\\ImageGallery.Client.csproj",
+  "projectFilePath": "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\ImageGallery.Client\\ImageGallery.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\6.0.6\\microsoft.aspnetcore.authentication.openidconnect.6.0.6.nupkg.sha512",
     "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

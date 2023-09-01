@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\Marvin.IDP\\Marvin.IDP.csproj": {}
+    "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\Marvin.IDP\\Marvin.IDP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\Marvin.IDP\\Marvin.IDP.csproj": {
+    "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\Marvin.IDP\\Marvin.IDP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\Marvin.IDP\\Marvin.IDP.csproj",
+        "projectUniqueName": "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\Marvin.IDP\\Marvin.IDP.csproj",
         "projectName": "Marvin.IDP",
-        "projectPath": "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\Marvin.IDP\\Marvin.IDP.csproj",
+        "projectPath": "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\Marvin.IDP\\Marvin.IDP.csproj",
         "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\Marvin.IDP\\obj\\",
+        "outputPath": "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\Marvin.IDP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

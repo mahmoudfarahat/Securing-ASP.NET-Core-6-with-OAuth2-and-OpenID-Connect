@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\ImageGallery.API\\ImageGallery.API.csproj": {}
+    "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\ImageGallery.API\\ImageGallery.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\ImageGallery.API\\ImageGallery.API.csproj": {
+    "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\ImageGallery.API\\ImageGallery.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\ImageGallery.API\\ImageGallery.API.csproj",
+        "projectUniqueName": "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\ImageGallery.API\\ImageGallery.API.csproj",
         "projectName": "ImageGallery.API",
-        "projectPath": "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\ImageGallery.API\\ImageGallery.API.csproj",
+        "projectPath": "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\ImageGallery.API\\ImageGallery.API.csproj",
         "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\ImageGallery.API\\obj\\",
+        "outputPath": "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\ImageGallery.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,8 +35,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\ImageGallery.Model\\ImageGallery.Model.csproj": {
-                "projectPath": "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\ImageGallery.Model\\ImageGallery.Model.csproj"
+              "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\ImageGallery.Model\\ImageGallery.Model.csproj": {
+                "projectPath": "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\ImageGallery.Model\\ImageGallery.Model.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\ImageGallery.Model\\ImageGallery.Model.csproj": {
+    "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\ImageGallery.Model\\ImageGallery.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\ImageGallery.Model\\ImageGallery.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\ImageGallery.Model\\ImageGallery.Model.csproj",
         "projectName": "ImageGallery.Model",
-        "projectPath": "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\ImageGallery.Model\\ImageGallery.Model.csproj",
+        "projectPath": "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\ImageGallery.Model\\ImageGallery.Model.csproj",
         "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\ImageGallery.Model\\obj\\",
+        "outputPath": "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\ImageGallery.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

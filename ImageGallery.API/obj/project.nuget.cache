@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LbgPNy4U7CrJAzn/046lU+XU1Tvv8S4oMdFjYTAsgXsFc/cHNXMdW9zjCUXu598EBqi1/yi0hPBBKgIuBNFnwg==",
+  "dgSpecHash": "q2YlsNixuR5PmmEX8m93JSGTMAE1xDxUqs83PNCgDmS7CylLk8l+egDBL2rHHWeAfVBNXsr2MNH41EcQPa2pSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\ImageGallery.API\\ImageGallery.API.csproj",
+  "projectFilePath": "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\ImageGallery.API\\ImageGallery.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahmoud\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Mahmoud\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IiOVAwBEZFZRJ+cmyXLSrYivhYnEIQaYaeJnj7wIhFTqN1Ud0bbs3mmByKLTvnv2gCwml425pFwRqf6Q+V7QZA==",
+  "dgSpecHash": "HJ6hQZvtiFLFwzhSP6kRwHIGWhtHldGtALsQ0FNLHkvFNICIXaqVR4icssTwwgdx6lWg2xqG1XYvKsY0HEV2fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\Marvin.IDP\\Marvin.IDP.csproj",
+  "projectFilePath": "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\Marvin.IDP\\Marvin.IDP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahmoud\\.nuget\\packages\\duende.identityserver\\6.3.2\\duende.identityserver.6.3.2.nupkg.sha512",
     "C:\\Users\\Mahmoud\\.nuget\\packages\\duende.identityserver.storage\\6.3.2\\duende.identityserver.storage.6.3.2.nupkg.sha512",

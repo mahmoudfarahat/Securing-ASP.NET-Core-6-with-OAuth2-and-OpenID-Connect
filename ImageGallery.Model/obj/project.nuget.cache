@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZArHHSJFfpS1G6/wVEldPevBOqFt82Tp4YUmL5WZ1n/PVvjf2qcW5s1nsghI6MTeX2lwQK+p1Vz9MiqchCz3Cg==",
+  "dgSpecHash": "j+UBOBeG/meZO9UQdNvksadQtMnNqATdaYC2HOEQB68s26YmN7ddnid50gswZgJKErPJ1bagKG710wEtyAv4Aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahmoud\\Desktop\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\ImageGallery.Model\\ImageGallery.Model.csproj",
+  "projectFilePath": "C:\\Users\\Mahmoud\\Desktop\\Securing ASP.NET Core 6 with OAuth2 and OpenID Connect\\ImageGallery.Model\\ImageGallery.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
